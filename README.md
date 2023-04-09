@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guilherme-op7&theme=dark&no-frame=false&no-bg=true&margin-w=4)	
 	
-![Snake animation](https://github.com/Guilherme-op7/Guilherme-op7/blob/output/github-contribution-grid-snake.svg)
+
