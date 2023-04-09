@@ -27,7 +27,7 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 <div>
 	<ul>
 		<li> 👤 I have 14 years old, i live in São Paulo - SP, Brazil.</li>
-	
+	        <li> 💻 aprendendo desenvolvimento web. </li>
 </div>
 
 </br>
