@@ -17,7 +17,7 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 <div>
    
  <h3>📫 Contact me:</h3>
-	    <a href="https://www.instagram.com/__guilherme.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	    <a href="https://www.instagram.com/guilhermee.p10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	    <a href = "mailto:netoguilherme989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
@@ -26,13 +26,13 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 
 <div>
 	<ul>
-		<li> 👤 I have 14 years old, i live in São Paulo - SP, Brazil.</li>
+		<li> 👤 I have 16 years old, i live in São Paulo - SP, Brazil.</li>
 	        <li> 💻 aprendendo desenvolvimento web. </li>
 </div>
 
 </br>
   
-<h3>👨🏽‍💻 Languages and Technologies:</h3>
+<h3>👨🏽‍💻 Linguagens com experiência:</h3>
 <div>
 	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -40,7 +40,7 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 </div>
 
 </br>
-<h3>📈 Statistics:</h3>
+<h3>📈 Estatisticas:</h3>
 
 <div>
 <div>
