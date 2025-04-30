@@ -1,4 +1,4 @@
-## Hello World! 🌎👋
+## Olá mundo! 🌎👋
 
 Meu nome é Guilherme, estudante de programação, futuro dev front end.
 
@@ -16,13 +16,13 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 ---
 <div>
    
- <h3>📫 Contact me:</h3>
+ <h3>📫 Meus contatos:</h3>
 	    <a href="https://www.instagram.com/guilhermee.p10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	    <a href = "mailto:netoguilherme989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
-<h3>ℹ️ About me:</h3>
+<h3>ℹ️ Quem sou:</h3>
 
 <div>
 	<ul>
@@ -36,22 +36,35 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 <div>
 	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code
+	<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code
+	<code><img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></code
+	<code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code															      
 </div>
 
 </br>
-<h3>📈 Estatisticas:</h3>
 
-<div>
-<div>
- <a href="https://github.com/marcovicar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-op7&layout=compact&langs_count=7&theme=aura"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-op7&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+### 📈 GitHub Stats
+
+<div align="center">
+  
+![Deivisson-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-op7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+  
 </div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guilherme-op7&theme=darkhub&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Guilherme-op7&theme=dark&no-frame=false&no-bg=true&margin-w=4)	
-	
+### ✨ Open Source Contributions
+- **[My Projects](https://github.com/Guilherme-op7?tab=repositories)**: Check out my repositories to explore the code behind my contributions.
+
+---
 
