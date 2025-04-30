@@ -26,7 +26,7 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 
 <div>
 	<ul>
-		<li> 👤 I have 16 years old, i live in São Paulo - SP, Brazil.</li>
+		<li> 👤 Eu tenho 16 anos, moro em São Paulo - SP, Brazil.</li>
 	        <li> 💻 aprendendo desenvolvimento web. </li>
 </div>
 
@@ -47,8 +47,8 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 
 <div align="center">
   
-![Deivisson-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-op7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Guilherme-op7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-op7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-op7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
   
 </div>
 
@@ -64,7 +64,7 @@ Meu nome é Guilherme, estudante de programação, futuro dev front end.
 ---
 
 ### ✨ Open Source Contributions
-- **[My Projects](https://github.com/Guilherme-op7?tab=repositories)**: Check out my repositories to explore the code behind my contributions.
+- **[Meus Projetos](https://github.com/Guilherme-op7?tab=repositories)**: Confira meus repositórios para explorar o código por trás das minhas contribuições.
 
 ---
 
