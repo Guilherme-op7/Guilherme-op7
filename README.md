@@ -10,7 +10,6 @@ Meu nome é Guilherme, estudante de programação, futuro desenvolvedor Full sta
 
 </div>
 
----
 <div>
    
  <h3>📫 Meus contatos:</h3>
