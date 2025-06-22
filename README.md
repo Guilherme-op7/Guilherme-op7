@@ -2,8 +2,6 @@
 
 Meu nome é Guilherme, estudante de programação, futuro desenvolvedor Full stack.
 
---- 
-
 [![](https://visitcount.itsvg.in/api?id=Guilherme-op7&icon=0&color=11)](https://visitcount.itsvg.in)
 
 </div>
