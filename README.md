@@ -17,13 +17,13 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 
 ---
 
-## 🛠️ Tecnologias que domino
+## 🛠️ Tecnologias
 
 - **HTML5** & **CSS3** — estrutura e estilo profissionais para a web
-- **JavaScript (ES6+)** — interatividade e lógica robusta no front-end
+- **JavaScript ** — interatividade e lógica robusta no front-end
 - **React** — criação de interfaces modernas e reativas
 - **Node.js** — desenvolvimento de APIs e back-ends escaláveis
-- **MySQL** — bancos de dados relacionais confiáveis e otimizados
+- **MySQL** — bancos de dados relacionais.
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
