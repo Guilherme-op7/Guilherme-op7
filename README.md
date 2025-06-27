@@ -53,9 +53,9 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 ## 🕹️ Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-op7/Guilherme-op7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-op7/Guilherme-op7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guilherme-op7/Guilherme-op7/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
