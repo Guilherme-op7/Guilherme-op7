@@ -50,6 +50,16 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 
 ---
 
+## 🕹️ Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -71,4 +81,4 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 
 ---
 
-> _"Aprender é um processo sem fim — e eu estou apenas começando essa jornada."_
+> ✨ *"Programar é transformar ideias em realidade — um bug por vez, um aprendizado por dia."* — Guilherme-op7
