@@ -20,7 +20,7 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 ## 🛠️ Tecnologias
 
 - **HTML5** & **CSS3** — estrutura e estilo profissionais para a web
-- **JavaScript ** — interatividade e lógica robusta no front-end
+- **JavaScript** — interatividade e lógica robusta no front-end
 - **React** — criação de interfaces modernas e reativas
 - **Node.js** — desenvolvimento de APIs e back-ends escaláveis
 - **MySQL** — bancos de dados relacionais.
