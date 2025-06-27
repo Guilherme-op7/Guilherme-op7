@@ -53,10 +53,11 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 ## 🕹️ Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-op7/Guilherme-op7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-op7/Guilherme-op7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guilherme-op7/Guilherme-op7/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/39ff14/Guilherme-op7">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0db7ed/Guilherme-op7">
+  <img alt="Guilherme-op7's Contribution Graph" src="https://ghchart.rshah.org/Guilherme-op7">
 </picture>
+
 
 ---
 
