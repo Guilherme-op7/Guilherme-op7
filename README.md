@@ -1,6 +1,6 @@
 # 👋 Olá, mundo! 🌎
 
-Meu nome é **Guilherme** — sou um estudante de programação e futuro desenvolvedor **Full Stack**. Apaixonado por tecnologia e aprendizado constante, estou sempre em busca de evoluir como profissional e criar soluções criativas para o mundo real.
+Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor **Full Stack**. Sou apaixonado por tecnologia e aprendizado constante, sempre buscando crescer como profissional e transformar ideias em realidade através do código.
 
 [![](https://visitcount.itsvg.in/api?id=Guilherme-op7&icon=0&color=11)](https://visitcount.itsvg.in)
 
@@ -10,19 +10,20 @@ Meu nome é **Guilherme** — sou um estudante de programação e futuro desenvo
 
 ## 👨‍💻 Sobre mim
 
-- 🎂 Tenho **16 anos** e moro em **São Paulo - SP**, Brasil.
-- 💻 Focado em me tornar um **desenvolvedor Full Stack**.
-- 📚 Entusiasta de **aprendizado constante** — acredito que a evolução nunca para.
-- 🌱 Sempre explorando novas tecnologias e boas práticas de desenvolvimento.
+- 🎂 **16 anos**, morando em **São Paulo - SP**, Brasil.
+- 💻 Focado em me tornar um **desenvolvedor Full Stack** completo.
+- 📚 Apaixonado por **aprendizado constante** — acredito que sempre há algo novo para dominar.
+- 🌱 Explorando tecnologias modernas e melhores práticas para entregar código limpo e eficiente.
 
 ---
 
 ## 🛠️ Tecnologias que domino
 
-- **HTML5** & **CSS3** — estrutura e estilo modernos para a web
-- **JavaScript (ES6+)** — interatividade e lógica do front-end
-- **React** — interfaces dinâmicas e reativas
-- **Node.js** — construção de back-ends escaláveis e APIs
+- **HTML5** & **CSS3** — estrutura e estilo profissionais para a web
+- **JavaScript (ES6+)** — interatividade e lógica robusta no front-end
+- **React** — criação de interfaces modernas e reativas
+- **Node.js** — desenvolvimento de APIs e back-ends escaláveis
+- **MySQL** — bancos de dados relacionais confiáveis e otimizados
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
@@ -30,11 +31,13 @@ Meu nome é **Guilherme** — sou um estudante de programação e futuro desenvo
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -57,7 +60,7 @@ Meu nome é **Guilherme** — sou um estudante de programação e futuro desenvo
 
 ## 🌟 Open Source & Projetos
 
-- **[Meus Repositórios](https://github.com/Guilherme-op7?tab=repositories)** — dê uma olhada no código que construí e em que estou trabalhando.
+- **[Meus Repositórios](https://github.com/Guilherme-op7?tab=repositories)** — explore o código por trás dos meus projetos e contribuições.
 
 ---
 
@@ -68,4 +71,4 @@ Meu nome é **Guilherme** — sou um estudante de programação e futuro desenvo
 
 ---
 
-> _"Aprender é um processo sem fim — e eu estou apenas começando essa jornada."_
+> 🌟 **Frase entusiasta:** *"Programar é mais que escrever código — é criar o futuro com minhas próprias mãos."*
