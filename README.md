@@ -82,4 +82,4 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 
 ---
 
-> ✨ *"Programar é transformar ideias em realidade — um bug por vez, um aprendizado por dia."* — Guilherme-op7
+> *"Programar é transformar ideias em realidade — um bug por vez, um aprendizado por dia."* 
