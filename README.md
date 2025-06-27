@@ -71,4 +71,4 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 
 ---
 
-> 🌟 **Frase entusiasta:** *"Programar é mais que escrever código — é criar o futuro com minhas próprias mãos."*
+> _"Aprender é um processo sem fim — e eu estou apenas começando essa jornada."_
