@@ -25,15 +25,6 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 - **Node.js** — desenvolvimento de APIs e back-ends escaláveis
 - **MySQL** — bancos de dados relacionais.
 
-<p>
-  <img height="10" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
-  <img height="10" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />
-  <img height="10" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="10" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" />
-  <img height="10" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="10" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
-</p>
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
