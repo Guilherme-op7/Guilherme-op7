@@ -23,6 +23,8 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 - **JavaScript** — interatividade e lógica robusta no front-end
 - **React** — criação de interfaces modernas e reativas
 - **Node.js** — desenvolvimento de APIs e back-ends escaláveis
+- **PHP** — back-end e desenvolvimento de APIs.
+- **PYTHON** —  programação versátil para back-end e automações.
 - **MySQL** — bancos de dados relacionais.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,6 +73,3 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermee.p10/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netoguilherme989@gmail.com)
 
----
-
-> *"Programar é transformar ideias em realidade — um bug por vez, um aprendizado por dia."* 
