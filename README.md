@@ -22,7 +22,6 @@ Meu nome é **Guilherme** — estudante de programação e futuro desenvolvedor 
 - **JavaScript** — interatividade e lógica robusta no front-end
 - **React** — criação de interfaces modernas e reativas
 - **Node.js** — desenvolvimento de APIs e back-ends escaláveis
-- **Php** — back-end e desenvolvimento de APIs.
 - **Python** —  programação versátil para back-end e automações.
 - **MySQL** — bancos de dados relacionais.
 
