@@ -31,7 +31,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-op7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=Guilherme-op7&theme=dark" alt="Animação da cobrinha de contribuições do GitHub"/>
+</div>
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-op7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
   
 </div>
